@@ -88,7 +88,7 @@ Move into the backend folder and install all required packages:
 
 cd backend
 npm install
-cd ..
+
 
 ### 3. Configure the Environment Files
 
