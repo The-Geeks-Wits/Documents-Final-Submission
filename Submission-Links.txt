@@ -2,7 +2,7 @@ IMPORTANT LINKS RELATED TO THIS PROJECT:
 
 1. GitHub Organization: https://github.com/The-Geeks-Wits
 
-2. Documents Repo: https://github.com/The-Geeks-Wits/Final-Submission
+2. Documents Repo: https://github.com/The-Geeks-Wits/Documents-Final-Submission
 
 3. Source Code Repo: https://github.com/The-Geeks-Wits/sa-learnerships
 
