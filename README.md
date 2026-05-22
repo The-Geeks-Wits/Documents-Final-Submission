@@ -354,7 +354,10 @@ The screenshot below shows the code coverage results generated after running the
 
 ---
 ## 9. Deployment
-//musa please specify where you deployed and the link to the site.
+**Render & Firebase Hosting**
+
+The application backend is deployed on Render, and the frontend is hosted on Firebase Hosting.
+The live application can be accessed at: https://salearnership-734cd.web.app/
 
 ---
 
