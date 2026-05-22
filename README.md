@@ -148,7 +148,6 @@ http://localhost:5500
 ### Google OAuth Notes
 Ensure the following redirect URI is registered in your Google Cloud Console:
 
-```
 http://localhost:3000/api/users/google/callback
 ```
 ```
